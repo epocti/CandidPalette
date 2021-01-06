@@ -1,0 +1,5 @@
+-cp src
+-D analyzer-optimize
+-debug
+-main Main
+--interp

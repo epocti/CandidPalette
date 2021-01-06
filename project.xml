@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Candid Palette" package="com.epocti.powerpalette" version="1.0.0" company="Epocti" />
+	<app main="Main" path="Export" file="CandidPalette" />
+	<source path="source" />
+	<haxelib name="openfl" />
+	<haxelib name="actuate" />
+	<icon path="assets/icon.png" />
+	<assets path="assets" rename="assets" />
+	<window allow-high-dpi="false"/>
+</project>
