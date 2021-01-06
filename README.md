@@ -1,8 +1,8 @@
 ## An OpenFL-based, crossplatform palette editing tool
 
-Candid Palette is a full-featured palette editor. Use it to create palettes for anything you may need: art, web design, etc.
+Vulpica (formerly Candid) Palette is a full-featured palette editor. Use it to create palettes for anything you may need: art, web design, etc.
 Palette also offers the ability to easily create palettes using pre-exising images. Either select just the colors you need, or generate a palette sorted by the most frequent colors.
-You can also export palettes for use in other programs such as Aseprite, Paint.NET, and (coming soon) Candid Editor.
+You can also export palettes for use in other programs such as Aseprite, Paint.NET, and (coming soon) Vulpica Editor.
 
 ## TODO
 - Update lithium framework
